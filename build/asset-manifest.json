@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d1605e9.css",
+    "main.js": "/static/js/main.ecab8984.js",
+    "static/media/pexels-introspectivedsgn-12689714.jpg": "/static/media/pexels-introspectivedsgn-12689714.4c41b712ac1fd169c68e.jpg",
+    "static/media/pexels-scottwebb-430208.jpg": "/static/media/pexels-scottwebb-430208.2402669579f5ca5930e7.jpg",
+    "static/media/C3 (1).jpg": "/static/media/C3 (1).008e8c9fe9418291d395.jpg",
+    "static/media/pexels-jakubzerdzicki-28117882.jpg": "/static/media/pexels-jakubzerdzicki-28117882.0c0c9dbd7bfde92ce2ad.jpg",
+    "static/media/C2.jpg": "/static/media/C2.654553f93a6238a60909.jpg",
+    "static/media/pexels-jakubzerdzicki-28940390.jpg": "/static/media/pexels-jakubzerdzicki-28940390.9236670558b98e51b91e.jpg",
+    "static/media/pexels-jakubzerdzicki-18464522.jpg": "/static/media/pexels-jakubzerdzicki-18464522.7101303ff0ab99d79208.jpg",
+    "static/media/pexels-jakubzerdzicki-16423102.jpg": "/static/media/pexels-jakubzerdzicki-16423102.b6f294fbc3e38060cecb.jpg",
+    "static/media/C1.jpg": "/static/media/C1.309b97f7aeef0ec64234.jpg",
+    "index.html": "/index.html",
+    "main.9d1605e9.css.map": "/static/css/main.9d1605e9.css.map",
+    "main.ecab8984.js.map": "/static/js/main.ecab8984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d1605e9.css",
+    "static/js/main.ecab8984.js"
+  ]
+}
